@@ -1,0 +1,9 @@
+No of training samples:3500
+No of testing samples : 2000
+Avg Training Loss:0.026834239479376087
+Avg Validating Loss:0.023137054212125283
+Avg Test Loss:0.11399397513270378
+Avg Train accuracy:94.19166666666668
+Avg Validation accuracy:95.0
+Avg Test accuracy:84.3
+Total time taken:2946.9292318820953
