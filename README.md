@@ -1,2 +1,2 @@
 # stageThesis_1
-Human gesture Recognization using Vision Transformer
+We have implemented hand gesture recognition using a Vision Transformer (ViT) model on Google's Soli dataset, replacing previous methods that relied on a fully trained end-to-end combination of deep convolutional and recurrent neural networks. The transition to ViT represents an innovative approach, showcasing adaptability in leveraging state-of-the-art architectures for improved accuracy in gesture recognition tasks. Results indicate the potential for ViT models to enhance performance in human-computer interaction applications.
